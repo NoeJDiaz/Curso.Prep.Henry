@@ -1,0 +1,4 @@
+for es un bucle que evalua las condiciones, una y otra vez hasta que se devuelve lo esperado.
+&&: operador logico "Y" evalua que ambas codicones sean verdaderas y devuelve true.
+||: operador "O", determina si una o ambas expresiones son verdaderas para devolver true.
+!: operador "Not",devuelve el valor opuesto del booleano.
