@@ -1,0 +1,1 @@
+Array: Matriz, contenedora de una coleccion de elemetos,se crea declarando la variable seguida de "[]", en donde los elementos se separan por comas, puede contener, numeros, booleanos, elemtos y cadenas.
