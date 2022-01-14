@@ -1,0 +1,5 @@
+objetos: guardan informacion sobre una sola cosa, y se citan mediante {}.
+propiedades:Se asignan dentro del objeto, en forma de clave:valor.
+Métodos:Las funciones guardadas en los objetos, se llaman metodos.
+bucle for...in:es un tipo de bucle el cual recorre cada clave del objeto, hasta el ultimo.
+Notacion de puntos vs notacion de corchetes:Se utilizan tanto como para asignar un valor como para acceder a ellos.
