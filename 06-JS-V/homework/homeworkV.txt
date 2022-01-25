@@ -1,0 +1,2 @@
+prototype: Es una propiedad que tiene cada clase, de establecer un metodo al cual tienen acceso cada objeto de esa misma clase.
+constructor (de clases): es una especie de plantilla a la cual nos da acceso JS, son utiles para objetos que comparten algunas propiedades/metodos.
